@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ 
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+ 
+main {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+h1{
+    color: white;
+}
